@@ -1,0 +1,12 @@
+<?php
+// Define variables for roll number, course name, and technology name
+$rollNumber = "CS12345";
+$courseName = "Computer Science";
+$technologyName = "PHP";
+
+// Display the information on the browser
+echo "<h2>Student Information</h2>";
+echo "<p><strong>Roll Number:</strong> $rollNumber</p>";
+echo "<p><strong>Course Name:</strong> $courseName</p>";
+echo "<p><strong>Technology Name:</strong> $technologyName</p>";
+?>
